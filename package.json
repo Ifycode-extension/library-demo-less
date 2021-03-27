@@ -1,7 +1,7 @@
 {
   "name": "library-demo-less",
   "version": "0.0.0",
-  "description": "Demo LESS library created to teach the content of... Add article link here",
+  "description": "Demo LESS library created to help follow along the tutorial in the article - Quick, effective and efficient way to test your separately hosted css library on your client, during development (LESS version)",
   "main": "css/styles.css",
   "scripts": {
     "start": "npm-run-all --parallel less",
